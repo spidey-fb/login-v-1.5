@@ -106,4 +106,6 @@ def menu():
 
                       print("\033[1;91m     Wrong Password")
 
-                      time.sleep
+                      time.sleep()
+menu()
+
