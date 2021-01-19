@@ -24,7 +24,7 @@ def menu():
 
            print("\033[1;93m")
 
-           print('''                               <[asalamu aliekum                ]>''')
+           print('''                               <[asalamu aliekum]>                ''')
 
            print("")
 
